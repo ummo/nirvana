@@ -13,44 +13,44 @@ Nirvana
 
 ####模块:
 
-##### [require('nv:util')](modules/util)
+##### [require('nv:util')](modules/util.md)
 
 提供一些基础库不具备的功能,后期可能发展为替代Zepto.js.
 
-##### [require('nv:app')](modules/app)
+##### [require('nv:app')](modules/app.md)
 
 webapp核心模块,整个webapp的开发都是围绕着app进行的.
 
-##### [require('nv:api')](modules/api)
+##### [require('nv:api')](modules/api.md)
 
 提供web与client交互的接口注册和调用功能.
 
-##### [require('nv:url')](modules/url)
+##### [require('nv:url')](modules/url.md)
 
 提供url跳转和替换等功能.
 
-##### [require('nv:view')](modules/view)
+##### [require('nv:view')](modules/view.md)
 
 提供webapp视图管理功能.
 
-##### [require('nv:router')](modules/router)
+##### [require('nv:router')](modules/router.md)
 
 提供webapp地址路由功能.
 
-##### [require('nv:style')](modules/style)
+##### [require('nv:style')](modules/style.md)
 
 提供webapp样式管理功能.
 
-##### [require('nv:tmpl')](modules/tmpl)
+##### [require('nv:tmpl')](modules/tmpl.md)
 
 为webapp的js模板提供支持.
 
 ####依赖Zepto的模块
 
-##### [require('nv:cache')](modules/cache)
+##### [require('nv:cache')](modules/cache.md)
 
 提供数据缓存功能. 依赖Zepto.js的Deferred功能
 
-##### [require('nv:directive')](modules/directive)
+##### [require('nv:directive')](modules/directive.md)
 
 为webapp提供HTML指令功能
